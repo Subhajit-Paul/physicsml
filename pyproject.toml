@@ -8,6 +8,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.5",
     "notebook>=7.4.5",
+    "scipy>=1.16.1",
     "sympy>=1.14.0",
     "torch>=2.8.0",
 ]
