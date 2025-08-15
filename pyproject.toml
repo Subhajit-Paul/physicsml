@@ -1,0 +1,7 @@
+[project]
+name = "physicsml"
+version = "0.1.0"
+description = "A Repository of Machine Learning and Physics Joing Hands"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
