@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "A Repository of Machine Learning and Physics Joing Hands"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.5",
+    "notebook>=7.4.5",
+    "sympy>=1.14.0",
+    "torch>=2.8.0",
+]
