@@ -5,6 +5,7 @@ description = "A Repository of Machine Learning and Physics Joing Hands"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "jax>=0.7.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.5",
     "notebook>=7.4.5",
